@@ -7,7 +7,7 @@ import 'react-vertical-timeline-component/style.min.css';
 
 const TimeLine = () => {
     return (
-        <VerticalTimeline layout="5-column-right" >
+        <VerticalTimeline layout="5-column-right" className="vertical-timeline-school">
             <VerticalTimelineElement
                 className="timeline-school"
                 contentStyle={{ backgroundColor: 'rgba(5, 62, 120,.2)', color: '#fffff' }}

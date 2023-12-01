@@ -6,9 +6,9 @@ import 'react-vertical-timeline-component/style.min.css';
 
 const TimeLineWork = () => {
   return (
-    <VerticalTimeline layout="5-column-right" >
+    <VerticalTimeline layout="5-column-right" className="vertical-timeline-work">
             <VerticalTimelineElement
-                className="timeline-school"
+                className="timeline-work"
                 contentStyle={{ backgroundColor: 'rgba(70, 2, 115,.2)', color: '#fff' }}
                 contentArrowStyle={{ borderRight: '12px solid  rgba(70, 2, 115,.2)'}}
                 date="Jun 2021 - Sep 2021"
@@ -23,7 +23,7 @@ const TimeLineWork = () => {
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
-                className="timeline-school"
+                className="timeline-work"
                 contentStyle={{ backgroundColor: 'rgba(70, 2, 115,.2)', color: '#fff' }}
                 contentArrowStyle={{ borderRight: '12px solid  rgba(70, 2, 115,.2)' }}
                 date="Jun 2020 - Aug 2020"
@@ -37,7 +37,7 @@ const TimeLineWork = () => {
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
-                className="timeline-school"
+                className="timeline-work"
                 contentStyle={{ backgroundColor: 'rgba(70, 2, 115,.2)', color: '#fff' }}
                 contentArrowStyle={{ borderRight: '12px solid  rgba(70, 2, 115,.2)' }}
                 date="Aug 2020 - May 2021"

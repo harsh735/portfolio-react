@@ -5,7 +5,6 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import Toolstack from "./Toolstack";
 import TimeLine from "./TimeLine";
-import Card from 'react-bootstrap/Card';
 import TimeLineWork from "./TimeLineWork";
 
 function About() {

@@ -1,13 +1,11 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
 
 function AboutCard() {
   return (
     <Card className="quote-card-view">
       <Card.Body>
-        <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify", marginTop:"20px" }}>
+          <p>
              I'm a Computer Science & Engineering graduate  
              from Bharati Vidyapeeth's College of Engineering, New Delhi.
             I'm a passionate developer and have experience working on tech stack such as &nbsp;
@@ -20,7 +18,6 @@ function AboutCard() {
             If not that, then its a bunch of men hitting a (smaller) ball with a bat.
             <br></br><br></br><br></br> Below is my academic and work experience ~
           </p>
-        </blockquote>
       </Card.Body>
     </Card>
   );
