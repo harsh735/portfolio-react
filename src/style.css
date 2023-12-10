@@ -274,9 +274,6 @@ button:focus {
   .Typewriter__cursor {
     font-size: 1.4em !important;
   }
-  .heading { 
-    margin-right: 50px !important;
-  }
   .main-img-div{
     margin-top: 7rem !important;
     justify-content: center !important;

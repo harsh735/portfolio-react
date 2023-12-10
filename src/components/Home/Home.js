@@ -36,6 +36,7 @@ function Home() {
                     I'm
                     <strong className="main-name"> Harshendra Singh</strong>
                   </h1>
+                 
                 
 
                 <div data-aos="fade-right" style={{ paddingLeft: 105, paddingTop: 50, textAlign: "left" }}>
