@@ -15,15 +15,15 @@ function Home2() {
             </h1>
 
             <p className="home-about-body">
-              I'm Harshendra, a CSE graduate from Bharati Vidyapeeth's College of Engineering, New Delhi
-              <br />I am passionate about implementing solutions to real-world problems
-              <br />and possess technical expertise on <b className="blue">Data structures, algorithms, MERN stack</b> and various utility tools.
+              I'm Harshendra, a passionate Software Engineer with ~1.5 YOE who is
+              <br />passionate about implementing solutions to real-world problems
+              <br />and possesses technical expertise on <b className="blue">Data structures, algorithms, MERN stack, .NET, Docker</b> and various utility tools.
               <br />
               <br />
               <br />
 
-              I do however, tend to follow a bunch of sports like 
-              football, cricket, f1, basketball and tennis.
+              In my freetime, my mood depends on 11 men in red shirts kicking a football for 90 mins. 
+              Yes, I'm a Liverpool fan. <p style={{color: "red",fontSize: "30px"}}>YNWA</p>
             </p>
 
           </Col>

@@ -21,6 +21,9 @@ const TimeLine = () => {
                     Pursued Bachelor of Technology from Bharti Vidyapeeths College of Engineering, New Delhi (Affilated to GGSIPU) 
                     with major in Computer Science Enginnering
                 </p>
+                <p>
+                    Achieved a CGPA of 8.94/10 along with core experience with societies such as IEEE Student Branch and Microsoft Learn Student Ambassador
+                </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="timeline-school"

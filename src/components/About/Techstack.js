@@ -11,6 +11,8 @@ import {
   DiHtml5,
   DiCss3,
   DiLinux,
+  DiDotnet,
+  DiDocker
 } from "react-icons/di";
 import { SiMysql,} from "react-icons/si";
 
@@ -54,6 +56,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb title="MongoDB"/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDotnet title=".NET"/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDocker title="Docker"/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiLinux title="Linux"/>
