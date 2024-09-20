@@ -15,7 +15,7 @@ function Home2() {
             </h1>
 
             <p className="home-about-body">
-              I'm Harshendra, a passionate Software Engineer with ~1.5 YOE who is
+              I'm Harshendra, a Software Engineer with ~1.5 YOE who is
               <br />passionate about implementing solutions to real-world problems
               <br />and possesses technical expertise on <b className="blue">Data structures, algorithms, MERN stack, .NET, Docker</b> and various utility tools.
               <br />
